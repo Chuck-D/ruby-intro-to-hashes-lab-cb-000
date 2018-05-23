@@ -4,7 +4,7 @@ def new_hash
 end
 
 def actor
-  my_hash={:name,"Chuck"}
+  my_hash={:name=>"Chuck"}
 
 end
 
