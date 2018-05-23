@@ -4,7 +4,7 @@ def new_hash
 end
 
 def actor
-  my_hash={name:
+  my_hash={name:"Chuck", sign: "Cancer"
 
 end
 
